@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 <h3 align="center">A passionate full-stack developer from Italy</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kappak-7&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/285803/screenshots/1066705/dribbble.gif)" alt="kappak-7" /> </p>
+<p align="right"> <img src="https://cdn.dribbble.com/users/285803/screenshots/1066705/dribbble.gif" /> </p>
 
 - 📫 How to reach me **kodrakristian98@gmail.com**
 
